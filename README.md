@@ -82,6 +82,6 @@ for item in nilai:
 print("==================================================================")
 Setelah ini selanjutnya kita akan membuat flowcart Sebagai Berikut
 
-![flowcart](flowchart.png)
+![flowcart](flowchart.)
 
 # Sekian dan Terimakasih
