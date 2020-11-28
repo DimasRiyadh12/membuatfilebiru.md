@@ -40,7 +40,8 @@ for item in nilai:
 print("==================================================================")
 Setelah Kita memasukan inputan dibawah ini ini lah hasil inputan Tersebut
 
-![hasil1](hasil.tugas1.png)
+![hasil1](![hasil tugas1](https://user-images.githubusercontent.com/73042485/100492542-d16a7080-315f-11eb-8034-d19965d3cf48.png)
+)
  
 Dan Setelah Kita Menemukan Hasil Nya Mari Saya Jelaskan Perinciannya
 
